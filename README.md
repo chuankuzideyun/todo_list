@@ -1,6 +1,6 @@
-# Todo List Website
+# Todo List
 
-A simple and interactive Todo List website built with HTML, CSS, and JavaScript. You can add tasks, delete tasks, mark them as complete, and filter tasks based on their status.
+A simple and interactive Todo List built with HTML, CSS, and JavaScript. You can add tasks, delete tasks, mark them as complete, and filter tasks based on their status.
 
 ## Features
 
